@@ -95,10 +95,11 @@
 						</tr>
 						<tr>
 							<td>Password</td>
-							<td><td><input type="password" name="memberPw" pattern="[A-Za-z0-9]+" title="영어와 숫자만 입력하세요"></td>
+							<td><input type="password" name="memberPw" pattern="[A-Za-z0-9]+" title="영어와 숫자만 입력하세요"></td>
 						</tr>
 					</table>
 				</form>
+
 			</div>
 		</div>
 	</div>
